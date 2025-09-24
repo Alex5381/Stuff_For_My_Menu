@@ -1,7 +1,7 @@
 {
   "menu-version": "7.1.0",
-  "discord-invite": "https://discord.gg/iidk",
-  "motd": "You are using build {0}. This menu was created by iiDk (@crimsoncauldron) on Discord. This menu is completely free and open sourced, if you paid for this menu you have been scammed. There are a total of <b>{1}</b> mods on this menu. <color=red>I, iiDk, am not responsible for any bans using this menu.</color> If you get banned while using this, it's your responsibility.",
+  "discord-invite": "",
+  "motd": "You are using build {0}. This menu was created by Vix. This menu is completely free, if you paid for this menu you have been scammed. There are a total of <b>{1}</b> mods on this menu. <color=red>I, Vix, am not responsible for any bans using this menu.</color> If you get banned while using this, it's your responsibility.",
   "admins": [
     {
       "name": "Alex",
@@ -21,4 +21,5 @@
   "detected-mods": [
     "Marcus"
   ]
+
 }
